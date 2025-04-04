@@ -1,50 +1,41 @@
-Web Design Internship Projects
-This repository contains three web design tasks completed during my internship. Each task focuses on different aspects of front-end development, showcasing my understanding of HTML, CSS, JavaScript, and responsive design principles.
+# 🌐 Web Design Internship Projects
 
-📝 Projects Overview
-1. Landing Page
-A simple and modern landing page.
+This repository contains three web design tasks completed during my internship. Each task showcases different aspects of front-end web development using HTML, CSS, and JavaScript.
 
-Responsive layout using HTML and CSS.
+---
 
-Includes navigation, hero section, and call-to-action elements.
+## 📂 Projects Included
 
-Designed with a focus on clean UI and user experience.
+### 1. 🚀 Landing Page
+- A clean and modern landing page.
+- Built with responsive design principles.
+- Features include a hero section, navigation bar, and call-to-action button.
+- Technologies: HTML, CSS
 
-2. Portfolio Website
-Personal portfolio site to showcase projects and skills.
+### 2. 💼 Portfolio Website
+- Personal portfolio website layout.
+- Includes sections like About Me, Projects, Contact, etc.
+- Fully responsive and styled with CSS.
+- JavaScript used for interactivity (like smooth scrolling or menu toggle).
+- Technologies: HTML, CSS, JavaScript
 
-Multiple sections: About, Projects, Contact, and more.
+### 3. 🌡️ Weather Converter
+- A simple weather conversion tool.
+- Converts temperature between Celsius and Fahrenheit.
+- Real-time input and dynamic result updates.
+- Technologies: HTML, CSS, JavaScript
 
-Responsive design with interactive elements using JavaScript.
+---
 
-Emphasis on layout consistency and accessibility.
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-3. Weather Converter
-A weather app that allows users to convert temperature units.
+---
 
-JavaScript-based temperature conversion between Celsius and Fahrenheit.
+## 📌 Notes
+- Each project is standalone and can be viewed independently.
+- Designed and developed as part of my web design internship to build real-world front-end skills.
 
-User-friendly input fields and dynamic display.
-
-Basic validation and real-time output updates.
-
-🚀 Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
-
-🔧 How to Run
-Clone this repository.
-
-Navigate to the project folder.
-
-Open the index.html file in your browser to view the project.
-
-📌 Notes
-Each project is self-contained and can be run independently.
-
-Designed and developed during my internship to improve front-end skills.
 
